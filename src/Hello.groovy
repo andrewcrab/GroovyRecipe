@@ -8,6 +8,7 @@
  */
 class Hello {
     static main (args){
-        print "Hello"
+        print "Hello, "
+        print "I'm sorry to bother GitHub"
     }
 }
